@@ -60,7 +60,7 @@ Make a checklist of your daily todo tasks.
 
 ## Live Demo
 
-Click here to see the [Live Demo](https://shella12.github.io/mathmagi.github.io/public) of the website 
+Click here to see the [Live Demo](https://shella12.github.io/todo-react/) of the website 
 
 ## 👤 Author
 
